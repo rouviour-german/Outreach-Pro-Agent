@@ -5,7 +5,7 @@
 
 [![React](https://img.shields.io/badge/Frontend-React%20%2F%20Vite-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Python](https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![AI](https://img.shields.io/badge/Agentic%20AI-Kimi%202.5-blue?style=for-the-badge)](https://github.com/daniellopez882)
+[![AI](https://img.shields.io/badge/Agentic%20AI-Kimi%202.5-blue?style=for-the-badge)](https://github.com/rouviour-german)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br/>
@@ -108,6 +108,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 </div>
+
+---
+
+---
 
 ---
 
